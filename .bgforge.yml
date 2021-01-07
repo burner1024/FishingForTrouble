@@ -1,0 +1,10 @@
+golem:
+  mod_dir: FishingForTrouble
+  platforms:
+    - tob
+    - bgee
+    - bg2ee
+    - bgt
+    - sod
+    - eet
+  happy: true
